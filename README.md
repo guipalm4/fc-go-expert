@@ -1,6 +1,6 @@
 # Fullcycle - Go Expert
 
-## 01 - Fundação
+## 01 - Fundação 🏫
 
 * [Entendendo a primeira linha](https://github.com/guipalm4/fc-go-expert/commit/3a1837b6dfa7cb6e46e826ea2a5eb217a23cd9a1)
 * [Declaração e atribuição](https://github.com/guipalm4/fc-go-expert/commit/f869622cda155c8bb68a46b7f7ba93b11f458e24)

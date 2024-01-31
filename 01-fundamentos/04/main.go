@@ -6,11 +6,8 @@ type ID int
 
 // Declaração GLOBAL
 var (
-	b bool = false
-	c int = 10
-	d string = "guipalm4"
 	e float32 = 1.2
-	f ID = 1
+	f ID      = 1
 )
 
 func main() {

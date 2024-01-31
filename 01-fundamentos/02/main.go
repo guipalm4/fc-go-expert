@@ -17,7 +17,7 @@ func main() {
 	println("Atribuição...")
 	b = true
 	println(b)
-	a:="Declaração shorthand"
+	a := "Declaração shorthand"
 	println(a)
 
 }
